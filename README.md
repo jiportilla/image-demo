@@ -17,6 +17,7 @@ This model recognizes the objects present in an image from the 80 different high
 Enjoy the demo!
 
 <h3>BADM-4830</h3>
+
 </p>
 
 1. login to the development virtual machine VM hosted on AWS cloud
@@ -65,7 +66,7 @@ Enjoy the demo!
 
 
 
-### Object Detection
+<h3>Object Detection</h3>
 
 
 7. This model can be deployed using the following mechanisms:
@@ -91,12 +92,12 @@ You will see:
  * Running on http://172.17.0.2:5000/ (Press CTRL+C to quit)
 ```
 
-### Example usage
+<h3>Example Usage</h3>
 
 1. Open another terminal window, login to the same VM and test with cURL
 
 
-###Test the model using cURL
+<h3>test with cURL</h3>
 
 Once deployed, you can test the model from the command line. For example:
 
