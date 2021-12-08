@@ -58,13 +58,10 @@ Enjoy the demo!
 	`docker run hello-world`
 	
 	You will see:
-	
 	```
 	Hello from Docker.
 	This message shows that your installation appears to be working correctly.
-```
-
-
+	```
 
 <h3>Object Detection</h3>
 
