@@ -2,6 +2,10 @@
 
 <h3> Localize and identify multiple objects in a single image.</h3>
 
+Source:
+
+[https://developer.ibm.com/exchanges/models/all/max-object-detector/](https://developer.ibm.com/exchanges/models/all/max-object-detector/)
+
 
 
 ### Flow
