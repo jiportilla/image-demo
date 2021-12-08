@@ -30,6 +30,7 @@ Enjoy the demo!
 2. Navigate to class subdirectory
 
 	`cd /home/ubuntu/4830`
+	
 3. Create & navigate to your own directory
 
 	`mkdir userName`
@@ -50,6 +51,7 @@ Enjoy the demo!
 5. Change directory to the module 7 directory
 
 	`cd image-demo/`
+	
 6. Test your `docker` installation by running the following command:
 
 	`docker run hello-world`
@@ -60,6 +62,7 @@ Enjoy the demo!
 	Hello from Docker.
 	This message shows that your installation appears to be working correctly.
 ```
+
 
 
 ### Object Detection
@@ -104,6 +107,7 @@ curl -F "image=@images/dog.jpg" -XPOST http://127.0.0.1:5000/model/predict | jq
 ```
 
 You will see:
+
 
 ```
 {
