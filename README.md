@@ -60,9 +60,10 @@ Enjoy the demo!
 	Hello from Docker.
 	This message shows that your installation appears to be working correctly.
 ```
-	
-	
-	### Object Detection
+
+
+### Object Detection
+
 
 7. This model can be deployed using the following mechanisms:
 
@@ -92,7 +93,7 @@ You will see:
 1. Open another terminal window, login to the same VM and test with cURL
 
 
-##Test the model using cURL
+###Test the model using cURL
 
 Once deployed, you can test the model from the command line. For example:
 
