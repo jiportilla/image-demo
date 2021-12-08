@@ -59,18 +59,19 @@ Enjoy the demo!
 	```
 	Hello from Docker.
 	This message shows that your installation appears to be working correctly.
-	...
+```
 	
 	
 	### Object Detection
 
 7. This model can be deployed using the following mechanisms:
 
+
 Deploy from Dockerhub:
 
-	```
-	docker run -it -p 5000:5000 codait/max-object-detector
-	```
+```
+docker run -it -p 5000:5000 codait/max-object-detector
+```
 	
 You will see:
 	
